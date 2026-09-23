@@ -1,6 +1,6 @@
 # Unidad 0 — Nivelación: Fundamentos algebraicos
 
-1. 0.1 El sistema de los números reales
+1. [0.1 El sistema de los números reales](tema-0-1-sistema-numeros-reales.html)
 2. 0.2 La recta de los números reales
 3. 0.3 Exponentes enteros
 4. 0.4 Radicales
