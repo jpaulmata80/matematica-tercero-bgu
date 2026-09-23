@@ -165,7 +165,7 @@ h1 {
   position: absolute;
   inset: 0 auto 0 0;
   width: 6px;
-  background: var(--color-primary);
+  background: linear-gradient(var(--color-primary), var(--color-secondary));
 }
 .unit-card--highlight {
   border-color: rgba(247,183,25,.62);
